@@ -1,0 +1,81 @@
+Receipt Total: $150.00
+
+Receipt Total: $260.00
+
+145 Widgets sold
+150 at 1.30 each	 Sales: $195.00
+Total Sale:	$ 195.00
+
+Receipt Total: $125.00
+
+75 Widgets sold
+5 at 1.30 each	 Sales: $6.50
+130 at 2.60 each	 Sales: $338.00
+Total Sale:	$ 344.50
+
+180 Widgets sold
+60 at 2.60 each	 Sales: $156.00
+50 at 3.25 each	 Sales: $162.50
+Total Sale:	$ 318.50
+Remainder of 70 Widgets not available
+
+
+Receipt Total: $200.00
+
+Receipt Total: $150.00
+
+Receipt Total: $220.00
+
+Discount percentage for the next two sales is: 30.0%
+
+50 Widgets sold
+50 at 3.64 each	 Sales: $182.00
+Total Sale:	$ 182.00
+
+30 Widgets sold
+30 at 4.55 each	 Sales: $136.50
+Total Sale:	$ 136.50
+
+Receipt Total: $300.00
+
+Receipt Total: $2650.00
+
+60 Widgets sold
+40 at 7.15 each	 Sales: $286.00
+50 at 7.80 each	 Sales: $390.00
+Total Sale:	$ 676.00
+
+Discount percentage for the next two sales is: 50.0%
+
+100 Widgets sold
+30 at 3.90 each	 Sales: $117.00
+265 at 6.50 each	 Sales: $1722.50
+Total Sale:	$ 1839.50
+
+70 Widgets sold
+195 at 6.50 each	 Sales: $1267.50
+Total Sale:	$ 1267.50
+
+175 Widgets sold
+125 at 13.00 each	 Sales: $1625.00
+Total Sale:	$ 1625.00
+Remainder of 50 Widgets not available
+
+
+Receipt Total: $560.00
+
+Receipt Total: $1125.00
+
+110 Widgets sold
+40 at 18.20 each	 Sales: $728.00
+75 at 19.50 each	 Sales: $1462.50
+Total Sale:	$ 2190.50
+
+Receipt Total: $480.00
+
+Receipt Total: $720.00
+
+Remaining Inventory
+Stock left: 5	Price per item: $15.0
+Stock left: 30	Price per item: $16.0
+Stock left: 40	Price per item: $18.0
